@@ -1,7 +1,14 @@
-# Vue 3 + Vite
+# Stone-scissors-paper
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+- Classic game
+- 10 players (from API)
+- Game mode: each against each other (two of the same players may not play again)
+- Tournament statistics (the best is at the top) 
 
-## Recommended IDE Setup
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Technology used
+
+- VUE 3 (composition API)
+- PINIA 
+- Bootstrap 5 & SCSS
+- Axios 
