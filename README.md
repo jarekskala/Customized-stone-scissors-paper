@@ -10,5 +10,6 @@
 
 - VUE 3 (composition API)
 - PINIA 
+- JavaScript ES6
 - Bootstrap 5 & SCSS
 - Axios 
