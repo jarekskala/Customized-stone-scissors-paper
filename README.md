@@ -1,4 +1,5 @@
 # Stone-scissors-paper
+live demo: https://jarekskala.github.io/stone-scissors-paper/
 
 - Classic game
 - 10 players (from API)
